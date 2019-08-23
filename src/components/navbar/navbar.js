@@ -2,7 +2,7 @@ import React from 'react'
 
 import "./navbar.scss";
 
-import logo from "../../img/logo.png";
+import logo from "../../logo.png";
 
 export default function navbar() {
   return (
